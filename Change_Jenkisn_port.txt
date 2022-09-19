@@ -12,3 +12,6 @@
 3) systemctl restart jenkins
 
 # goto browser and enter Ip:<portno>
+
+
+new webhook change s
